@@ -23,7 +23,7 @@ Dataset mentah mengandung banyak **missing values, outliers**, dan variabel deng
 4. **Scaling & Normalization**: Menerapkan **StandardScaler** atau **MinMaxScaler** pada fitur numerik untuk meningkatkan performa model.
 5. **Handling Imbalanced Data**: Menggunakan **SMOTE (Synthetic Minority Over-sampling Technique)** untuk menyeimbangkan distribusi kelas pelanggan yang gagal bayar dan tidak gagal bayar.
 
-📥 **Download Datasets**: [dataset](https://rakamin-lms.s3.ap-southeast-1.amazonaws.com/vix-assets/home-credit-indonesia/home-credit-default-risk.zip)
+📥 **Download Datasets:** [dataset](https://rakamin-lms.s3.ap-southeast-1.amazonaws.com/vix-assets/home-credit-indonesia/home-credit-default-risk.zip)\
 📥 **Download Cleaned Datasets:** [cleaned dataset](https://drive.google.com/drive/folders/11Qt6dED9j_jzHeg-6l6xMlw9zwcJhse9?usp=sharing)
 
 ## 🚀 Model Development
