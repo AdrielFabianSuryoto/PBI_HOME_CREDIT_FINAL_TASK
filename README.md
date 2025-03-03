@@ -44,6 +44,3 @@ Berdasarkan hasil pemodelan, rekomendasi untuk bisnis meliputi:
 3. **Monitoring model secara berkala** dan eksplorasi metode lain seperti **XGBoost atau CatBoost** untuk meningkatkan akurasi deteksi pelanggan gagal bayar.
 
 
----
-🚀 **Let's make smarter credit decisions with Machine Learning!** 🚀
-
