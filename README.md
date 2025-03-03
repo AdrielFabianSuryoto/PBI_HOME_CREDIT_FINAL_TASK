@@ -23,7 +23,7 @@ Dataset mentah mengandung banyak **missing values, outliers**, dan variabel deng
 4. **Scaling & Normalization**: Menerapkan **StandardScaler** atau **MinMaxScaler** pada fitur numerik untuk meningkatkan performa model.
 5. **Handling Imbalanced Data**: Menggunakan **SMOTE (Synthetic Minority Over-sampling Technique)** untuk menyeimbangkan distribusi kelas pelanggan yang gagal bayar dan tidak gagal bayar.
 
-📥 **Download Cleaned Dataset:** [cleaned_application_train.csv](https://drive.google.com/drive/folders/11Qt6dED9j_jzHeg-6l6xMlw9zwcJhse9?usp=sharing)
+📥 **Download Cleaned Dataset:** [cleaned dataset](https://drive.google.com/drive/folders/11Qt6dED9j_jzHeg-6l6xMlw9zwcJhse9?usp=sharing)
 
 ## 🚀 Model Development
 Model yang digunakan dalam proyek ini mencakup:
